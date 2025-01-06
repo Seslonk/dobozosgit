@@ -1,0 +1,92 @@
+div {
+    width:70%;      
+    height:150px;   
+    margin: auto;
+    height: 80px;
+    text-align: center;  border: 2px;
+    border-style: solid;
+    border-color:black;
+    padding: 10px;
+    }
+header{
+    width:70%;
+    height:150px;
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 20px;
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+    border-left-width: 7px;
+    border-right-width: 7px;
+    border-radius: 20px;
+}
+#fejlec{
+    padding: 30px;
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+#jobbkocka{
+    float: right;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    width: 370px;
+    height: 370px;
+    margin-right: 200px;
+    padding-right: 60px;
+    border-style: solid;
+    border-color:black;
+}
+#balkocka{
+    float: left;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    width: 370px;
+    height: 370px;
+    margin-left: 200px;
+   padding-left: 60px;
+   border-style: solid;
+    border-color:black;
+}
+#balbelso{
+    margin-right: 25px;
+    height: 300px;
+    width: 300px;
+}
+#jobbbelso{
+    margin-left:25px;
+    height: 300px;
+    width: 300px;
+}
+#nagykocka{
+    margin-top: 600px;
+    padding: 30px;
+    border-top-width: 7px;
+    border-bottom-width: 7px;
+}
+#ballebeg{
+    margin: 40px;
+    float:left;
+    padding:40px
+}
+#jobblebeg{
+    margin: 40px;
+    float:right;
+    padding:40px
+}
+#lablec{
+    margin-top: 600px;
+    border-style: solid;
+    border-color:black;
+    padding: 10px;
+    padding-top:60px;
+    padding-left: 1500px;
+}
+#also{
+    height: 30px;
+    width: 70px;   
+}
